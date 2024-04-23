@@ -1,0 +1,24 @@
+
+git with Intellij Idea
+
+https://www.youtube.com/watch?v=EI0editz4pc&list=PLBb5HFCJVQtsCkbHJK7GWzjnAF00hfr8j
+
+How to add a project to Git and GitHub in IntelliJ
+https://www.youtube.com/watch?v=TzyredWGk7Q&pp=ygUadXNpbmcgaW50ZWxsaWogd2l0aCBnaXRodWI%3D
+
+How To Clone or Import a Git Project In IntelliJ IDEA? GitHub to Intellij IDEA
+https://www.youtube.com/watch?v=ZqxVJ9gEKo0&pp=ygUadXNpbmcgaW50ZWxsaWogd2l0aCBnaXRodWI%3D
+
+IntelliJ IDEA. Share a Project on GitHub
+https://www.youtube.com/watch?v=4ukhZvOmAtk&pp=ygUadXNpbmcgaW50ZWxsaWogd2l0aCBnaXRodWI%3D
+
+Setup Git & GitHub on Intellij | Using VCS on IDEs
+https://www.youtube.com/watch?v=9btIkTFgH_8&pp=ygUadXNpbmcgaW50ZWxsaWogd2l0aCBnaXRodWI%3D
+
+Push Project From IntelliJ To GitHub | IntelliJ 2023.2 | Latest Updated |
+https://www.youtube.com/watch?v=I9xeZ7aCKkY&pp=ygUadXNpbmcgaW50ZWxsaWogd2l0aCBnaXRodWI%3D
+
+
+https://www.youtube.com/watch?v=I9xeZ7aCKkY
+
+Push Project From IntelliJ To GitHub | IntelliJ 2023.2 | Latest Updated |
